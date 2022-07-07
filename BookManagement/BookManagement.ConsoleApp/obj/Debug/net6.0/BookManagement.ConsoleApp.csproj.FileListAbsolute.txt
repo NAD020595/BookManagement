@@ -1,0 +1,15 @@
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\bin\Debug\net6.0\BookManagement.ConsoleApp.exe
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\bin\Debug\net6.0\BookManagement.ConsoleApp.deps.json
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\bin\Debug\net6.0\BookManagement.ConsoleApp.runtimeconfig.json
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\bin\Debug\net6.0\BookManagement.ConsoleApp.dll
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\bin\Debug\net6.0\BookManagement.ConsoleApp.pdb
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.csproj.AssemblyReference.cache
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.AssemblyInfoInputs.cache
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.AssemblyInfo.cs
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.csproj.CoreCompileInputs.cache
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.dll
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\refint\BookManagement.ConsoleApp.dll
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.pdb
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\BookManagement.ConsoleApp.genruntimeconfig.cache
+D:\NAD\Learn\BookManagement\BookManagement\BookManagement.ConsoleApp\obj\Debug\net6.0\ref\BookManagement.ConsoleApp.dll
