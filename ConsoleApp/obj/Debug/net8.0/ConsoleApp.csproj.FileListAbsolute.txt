@@ -1,0 +1,15 @@
+E:\Learn\BookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+E:\Learn\BookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+E:\Learn\BookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+E:\Learn\BookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+E:\Learn\BookManagement\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.sourcelink.json
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+E:\Learn\BookManagement\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll
