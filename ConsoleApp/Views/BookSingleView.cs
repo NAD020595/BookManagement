@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp.View
+namespace ConsoleApp.Views
 {
     using Models; // chú ý cách dùng using bên trong namespace 
     /// <summary> 
