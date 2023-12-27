@@ -36,5 +36,11 @@ namespace ConsoleApp.Controllers
             BookSingleView view = new BookSingleView(model);// khởi tạo view
             view.Render(); // gọi phương thức Render để thực sự hiển thị ra màn hình
         }
+
+        public void Create()
+        {
+            BookCreateView view = new BookCreateView(); // khởi tạo object 
+            view.Render(); // hiển thị ra màn hình
+        }
     }
 }
