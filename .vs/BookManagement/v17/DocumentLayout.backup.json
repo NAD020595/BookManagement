@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Learn\\BookManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|e:\\learn\\bookmanagement\\consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|e:\\learn\\bookmanagement\\consoleapp\\views\\bookcreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\bookcreateview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|e:\\learn\\bookmanagement\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|e:\\learn\\bookmanagement\\consoleapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|e:\\learn\\bookmanagement\\consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDA99E83-0977-4726-A101-860EE92424B9}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\views\\booksingleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,13 +94,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookCreateView.cs",
+              "DocumentMoniker": "E:\\Learn\\BookManagement\\ConsoleApp\\Views\\BookCreateView.cs",
+              "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookCreateView.cs",
+              "ToolTip": "E:\\Learn\\BookManagement\\ConsoleApp\\Views\\BookCreateView.cs",
+              "RelativeToolTip": "ConsoleApp\\Views\\BookCreateView.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:23:29.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "BookController.cs",
               "DocumentMoniker": "E:\\Learn\\BookManagement\\ConsoleApp\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Controllers\\BookController.cs",
               "ToolTip": "E:\\Learn\\BookManagement\\ConsoleApp\\Controllers\\BookController.cs",
               "RelativeToolTip": "ConsoleApp\\Controllers\\BookController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T09:17:44.629Z",
               "EditorCaption": ""
@@ -109,14 +126,14 @@
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
               "ToolTip": "E:\\Learn\\BookManagement\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-04T09:17:12.174Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BookSingleView.cs",
               "DocumentMoniker": "E:\\Learn\\BookManagement\\ConsoleApp\\Views\\BookSingleView.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Views\\BookSingleView.cs",
